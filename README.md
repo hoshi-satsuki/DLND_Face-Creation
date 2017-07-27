@@ -1,3 +1,3 @@
 # DLND_Face-Creation
-Face Generation
-In this project, we'll use generative adversarial networks to generate new images of faces.
+In this project, we'll use a generative adversarial network to generate new images of faces given a dataset of pictures of faces.
+This project has been part of the Deep Learning Nanodegree on Udacity.
